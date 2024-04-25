@@ -1,14 +1,12 @@
 #------------------------
-# Cryptography (Winter 2023)
-# Assignment 3: Vigenere Cipher
+# Vigenere Cipher
 #------------------------
 
 #------------------------
-# Student Name: Mohammed Inshasi
-# Student ID:20200841
+
 #------------------------
 
-import utilities
+
 from utilities import get_positions
 from utilities import clean_text
 from utilities import insert_positions
