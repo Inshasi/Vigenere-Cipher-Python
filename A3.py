@@ -2,10 +2,6 @@
 # Vigenere Cipher
 #------------------------
 
-#------------------------
-
-#------------------------
-
 
 from utilities import get_positions
 from utilities import clean_text
